@@ -1,0 +1,11 @@
+export const image_Rectangle_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4ca4/9cb0/bec2198fa24e137196b843a6448ab77a";
+export const image_Rectangle_4_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ea1f/9164/d12a2d9e507c7aca0ee83ff453df8903";
+export const image_Rectangle_6_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6380/a6fd/7b1fcbb2ccb9d7bd1dcd0ea3ecc711ee";
+export const image_Rectangle_8_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/82f9/0518/897fb1154efd2994344915129d166fea";
+export const image_Rectangle_10_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3ff1/ad53/5292803707a6fab027666a9354f5e4ff";
+export const image_Rectangle_12_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/70d4/c54e/35fceed276c4daafdb4d55c3d4b54afb";
+export const image_user_5_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ae5a/0164/33c23989a3563b268913d3b87abbaed4";
+export const image_bar_chart___Copy_5_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/29f1/55f0/543b37154f7011338ccbf154ab7d24ab";
+export const image_calendar___Copy_5_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ba4f/b5a0/1232a6e001a2a29387ec9277b3d70637";
+export const image_home_5_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f41e/34bc/0fa084ccdc23e8aed648795079aad049";
+export const image_camera_5_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9099/1423/4cadb55300823b6e49f661f7523eb5cf";
